@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ryn:home|Door43 (ryn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ryn|d43-ryn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ryn/archive/master.zip|d43-ryn.zip]]
+
+**Recent Changes**
+{{changes>ns = ryn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ryn|Ethnologue data]]
+
